@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python3 test_program.py
 ```
 
-### Try to open the code ```program.py``` and modify it.
+### Try to open the code ```test_program.py``` and modify it.
 Instantiate a model, enter the predict target and converter.<br>
 ```target```: "business" / "occupation"<br>
 ```converter```: "bagofwords" / "tfidf"<br>
