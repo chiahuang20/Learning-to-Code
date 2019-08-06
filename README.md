@@ -8,8 +8,15 @@ Information Management, National Taiwan University.<br>
 ```
 pip install -r requirements.txt
 ```
-
+If you have both Python 2 and Python 3 in your computer, be sure to add "3" after ```python``` or ```pip``` command, i.e., 
+```
+pip3 install -r requirements.txt
+```
 ### Try to execute the code ```test_program.py```
+```
+python test_program.py
+```
+or
 ```
 python3 test_program.py
 ```
