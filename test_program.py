@@ -21,4 +21,4 @@ print(d.predict("sample_dataset.xlsx"))
 
 e = RandomForestModel(target="occupation", converter="bagofwords")
 print(e)
-print(u.predict("sample_dataset.xlsx"))
+print(e.predict("sample_dataset.xlsx"))
