@@ -2,7 +2,7 @@
 Hsin-Min Lu, Yu-Hao Lee, Chih-Chia Huang, Yu-Ting Tu.<br>
 Information Management, National Taiwan University.<br>
 
-- <b>The code is written by Python 3, so be sure to check your Python version.</b>
+- <b>The code is written in Python 3, so be sure to check your Python version.</b>
 
 ### Execute the following code to install python packages.
 ```
@@ -18,3 +18,6 @@ python3 program.py
 Instantiate a model, enter the predict target and converter.<br>
 ```target```: "business" / "occupation"<br>
 ```converter```: "bagofwords" / "tfidf"<br>
+
+### Sample test data
+There is a sample test data called ```sample_dataset.xlsx```, you can open it via Excel to see the data structure for our experiment.
